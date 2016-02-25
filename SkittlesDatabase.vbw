@@ -1,10 +1,10 @@
 mMain = 22, 29, 995, 804, C
-frmStatistics = 88, 116, 1275, 824, Z, 545, 391, 1270, 835, C
+frmStatistics = 88, 116, 1275, 824, C, 545, 391, 1270, 835, C
 frmMain = 418, 70, 1313, 795, C, 66, 87, 924, 640, C
 mWindow = 110, 145, 720, 527, C
 mRegistrationDatabase = 44, 58, 654, 460, C
 mRegistry = 154, 203, 737, 670, C
-de = 0, 0, 0, 0, C, 26, 26, 836, 924, CZ
+de = 0, 0, 0, 0, C, 26, 26, 828, 919, C
 mApplication = 706, 301, 1316, 683, C
 mStatistics = 53, 15, 619, 482, C
 frmMatch = 312, 312, 1449, 946, C, 0, 0, 610, 402, C

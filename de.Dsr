@@ -16,7 +16,7 @@ Begin {C0E45035-5775-11D0-B388-00A0C9055D8E} de
       ConnectionName  =   "conData"
       ConnDispId      =   1001
       SourceOfData    =   3
-      ConnectionSource=   "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=Skittles.mdb;Persist Security Info=False"
+      ConnectionSource=   $"de.dsx":0000
       Expanded        =   -1  'True
       QuoteChar       =   96
       SeparatorChar   =   46
@@ -660,7 +660,7 @@ Begin {C0E45035-5775-11D0-B388-00A0C9055D8E} de
       CommandName     =   "MatchesPlayedByPlayer"
       CommDispId      =   1082
       RsDispId        =   1085
-      CommandText     =   $"de.dsx":0000
+      CommandText     =   $"de.dsx":0096
       ActiveConnectionName=   "conData"
       CommandType     =   1
       Expanded        =   -1  'True
@@ -887,7 +887,7 @@ Begin {C0E45035-5775-11D0-B388-00A0C9055D8E} de
       CommandName     =   "TotalScore"
       CommDispId      =   1096
       RsDispId        =   1100
-      CommandText     =   $"de.dsx":027E
+      CommandText     =   $"de.dsx":0314
       ActiveConnectionName=   "conData"
       CommandType     =   1
       IsRSReturning   =   -1  'True
@@ -953,7 +953,7 @@ Begin {C0E45035-5775-11D0-B388-00A0C9055D8E} de
       CommandName     =   "TotalMisses"
       CommDispId      =   1101
       RsDispId        =   1183
-      CommandText     =   $"de.dsx":043B
+      CommandText     =   $"de.dsx":04D1
       ActiveConnectionName=   "conData"
       CommandType     =   1
       IsRSReturning   =   -1  'True
@@ -1029,7 +1029,7 @@ Begin {C0E45035-5775-11D0-B388-00A0C9055D8E} de
       CommandName     =   "Stacks"
       CommDispId      =   1116
       RsDispId        =   1128
-      CommandText     =   $"de.dsx":0659
+      CommandText     =   $"de.dsx":06EF
       ActiveConnectionName=   "conData"
       CommandTimeout  =   10
       CommandType     =   1
@@ -1107,7 +1107,7 @@ Begin {C0E45035-5775-11D0-B388-00A0C9055D8E} de
       CommandName     =   "HighScores"
       CommDispId      =   1119
       RsDispId        =   1130
-      CommandText     =   $"de.dsx":0882
+      CommandText     =   $"de.dsx":0918
       ActiveConnectionName=   "conData"
       CommandType     =   1
       IsRSReturning   =   -1  'True
@@ -1376,7 +1376,7 @@ Begin {C0E45035-5775-11D0-B388-00A0C9055D8E} de
       CommandName     =   "ReorderStatistics"
       CommDispId      =   1144
       RsDispId        =   1148
-      CommandText     =   $"de.dsx":0A68
+      CommandText     =   $"de.dsx":0AFE
       ActiveConnectionName=   "conData"
       CommandTimeout  =   10
       CommandType     =   1
@@ -1637,7 +1637,7 @@ Begin {C0E45035-5775-11D0-B388-00A0C9055D8E} de
       CommandName     =   "TotalFines"
       CommDispId      =   1172
       RsDispId        =   1177
-      CommandText     =   $"de.dsx":0B9E
+      CommandText     =   $"de.dsx":0C34
       ActiveConnectionName=   "conData"
       CommandType     =   1
       IsRSReturning   =   -1  'True

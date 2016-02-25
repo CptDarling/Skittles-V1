@@ -19,6 +19,8 @@ Public Sub InitMatch(MatchID As Integer, Players As Collection)
             For i = 1 To iLegs
                 sScore = InputBox(sShort & ", leg = " & i & " score?", "Score", "")
                 sMisses = InputBox(sShort & ", leg = " & i & " misses?", "Misses", "0")
+                
+                
                 .AddNew Array("MatchID", "MemberID", "PlayerPosition", "Leg", "Score", "Misses"), Array(MatchID, sShort, ii, i, Val(sScore), Val(sMisses))
             Next i
         Next sShort
