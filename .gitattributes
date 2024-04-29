@@ -20,3 +20,12 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+
+*.bas linguist-language=VB6
+*.cls linguist-language=VB6
+*.dca linguist-language=VB6
+*.dsr linguist-language=VB6
+*.dsx linguist-language=VB6
+*.frm linguist-language=VB6
+
+*.mdb linguist-language=Access
